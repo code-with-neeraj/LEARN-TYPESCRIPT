@@ -2,4 +2,12 @@
 //4. Type Inference
 //*Understanding type inference
 //*Type annotations
-// 56:01
+//*type inference
+let g = 12;
+//*type annotations
+let h;
+h = 12;
+h = true;
+h = "neeraj";
+let c;
+function abcd(a, b) { }
