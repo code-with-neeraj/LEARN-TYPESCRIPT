@@ -4,14 +4,14 @@
 
 
 //*type inference
-let a = 12;
+let g = 12;
 
 //*type annotations
-let a: number | boolean | string;
+let h: number | boolean | string;
 
-a = 12;
-a = true;
-a = "neeraj";
+h = 12;
+h = true;
+h = "neeraj";
 
 
 let c:boolean;
