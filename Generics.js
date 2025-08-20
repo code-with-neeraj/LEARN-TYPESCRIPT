@@ -10,10 +10,11 @@ function abcde(obj) {
 }
 abcde({ name: "foo", age: 25, key: "ahfkdf" });
 //*  Generic classes
-class BottleMaker {
+class BottleMakersss {
     constructor(key) {
         this.key = key;
     }
 }
-let b1 = new BottleMaker("hey");
-let b2 = new BottleMaker("hey");
+let bo1 = new BottleMakersss("hey");
+let bo2 = new BottleMakersss(12);
+console.log(b1, b2);
